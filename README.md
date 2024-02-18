@@ -1,7 +1,7 @@
 # 3D-printing-upper-shell-of-launchpad-pro
 
 ## CN:
-这是launchpad pro的上层外壳，已验证外壳可正常使用，本项目在商业化前需咨询TSGP STUDIO
+这是launchpad pro的上层外壳，已验证外壳可正常使用(PETG)，本项目在商业化前需咨询TSGP STUDIO
 
 ## 许可：
 * 设计采用 MIT 开源硬件许可协议。详情请查看 LICENSE 文件。
@@ -11,7 +11,7 @@
 * 开源许可协议允许私人和商业使用，但TSGP工作室保留外壳设计设计的权利。不允许将未经修改的设计用于商业目的。如果你想将设计用于商业目的，请先与我了解详情。
 
 ## EN:
-This is the upper shell of launchpad pro,Verified that the shell can be used normally, TSGP STUDIO needs to be consulted before commercialization of this project
+This is the upper shell of launchpad pro,Verified that the shell can be used normally(PETG), TSGP STUDIO needs to be consulted before commercialization of this project
 
 ## License:
 
